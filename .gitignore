@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+data/
+*.csv
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
 __pycache__/
 *.py[codz]
 *$py.class
